@@ -1,0 +1,1941 @@
+transcript_id,keyword,start_timestamp(seconds)
+0,amateur,124.41
+0,astronomy,0.09|34.08|40.35|69.42|89.1|129.15
+0,behind,65.52
+0,branch,39.84
+0,can,133.35
+0,can not,133.35
+0,celestial,6.57|73.47|81.6|83.7
+0,celestial object,6.57|73.47|81.6|83.7
+0,create,90.33
+0,describe,105.36
+0,field,128.55
+0,field astronomy,128.55
+0,first,55.83
+0,galileo,51.06
+0,include,16.44|23.34
+0,include blue,16.44|23.34
+0,include blue whale,16.44|23.34
+0,initial,115.17|117.99
+0,make,126.54|133.83
+0,mass,108.6|115.56
+0,model,47.67|99.06
+0,moon,78.6
+0,navigation,82.23|85.47
+0,not,63.42
+0,not penny,63.42
+0,one,67.74|104.25|130.38
+0,one hundred,67.74|104.25|130.38
+0,one hundred fifty,67.74|104.25|130.38
+0,origin,13.38|107.46
+0,phenomenon,97.56|105.96
+0,predict,92.76
+0,science,1.92|5.49|70.98
+0,science study,1.92|5.49|70.98
+0,scientific,126.78|131.25
+0,see,100.71
+0,stellar,108.24|113.85
+0,stellar mass,108.24|113.85
+0,sun,61.26|78.03
+0,supernova,23.82
+0,system,48.69|56.88
+0,universe,41.73
+0,use,83.31
+0,work,49.92
+0,work progressive,49.92
+0,work progressive work,49.92
+0,work use,49.92
+0,work use technology,49.92
+1,also,1.11
+1,be,26.46|33.87|49.98|74.43|83.25|105.63|117.39
+1,become,54.03|148.11
+1,black,55.77|148.89
+1,black white,55.77|148.89
+1,carbon,64.65|75.6
+1,comparable,10.77|13.98
+1,cool,126.45|138.57
+1,core,4.02|73.35|142.23
+1,dance,106.29
+1,dance dance,106.29
+1,degenerate,1.98|6.51
+1,degenerate pressure,1.98|6.51
+1,dwarf,0.45|2.55|8.46|23.07|25.32|44.37|66.96|80.16|86.31|88.68|111.27|120.96|137.94|149.31
+1,eight,27.33|34.08|70.14
+1,electron,5.88|102.9|118.26
+1,electron degenerate,5.88|102.9|118.26
+1,electron degenerate pressure,5.88|102.9|118.26
+1,energy,20.39|93.75|124.92|127.77
+1,evolutionary,50.7
+1,first,41.01
+1,four,115.08|115.38
+1,four sonnet,115.08|115.38
+1,fuse,75.27|83.91
+1,fusion,21.36|90.69|98.79
+1,heat,97.62|146.7
+1,helium,84.21|85.59
+1,hot,121.83
+1,hundred,35.69
+1,hundred fifty,35.69
+1,hundred fifty four,35.69
+1,hundred thousand,35.69
+1,hundred thousand year,35.69
+1,last,133.65
+1,last specie,133.65
+1,law,45.99
+1,light,28.26|147.18
+1,long,136.62
+1,long term,136.62
+1,low,82.56|143.67
+1,mass,10.23|52.62|68.25|82.77|109.62
+1,material,87.42|139.29
+1,maximum return,108.99
+1,may,80.64
+1,neon,76.56|78.78
+1,nineteen,42.21|46.86
+1,nineteen eighty,42.21|46.86
+1,nineteen eighty six,42.21|46.86
+1,nineteen forty,42.21|46.86
+1,nineteen seventy,42.21|46.86
+1,nineteen seventy four,42.21|46.86
+1,ninety,57.96
+1,ninety nine,57.96
+1,not,53.13|76.23
+1,not penny,53.13|76.23
+1,one,114.39
+1,one hundred,114.39
+1,one hundred fifty,114.39
+1,other,59.67
+1,percent,58.8
+1,point,27.57|70.74|114.72
+1,pressure,104.25|119.52
+1,seven,58.38
+1,six,27.9
+1,source energy,93.21|124.35
+1,star,31.59|36.03|55.02|92.31
+1,star low,31.59|36.03|55.02|92.31
+1,state,51.42
+1,stellar,3.6
+1,stellar mass,3.6
+1,sun,12.09|37.38
+1,support,96.3
+1,temperature,73.65|132.69|143.91
+1,ten year,42.72|70.5
+1,time,134.94|136.89
+1,time alliance,134.94|136.89
+1,twenty,47.31
+1,twenty seventeen,47.31
+1,two,47.64
+1,two percent,47.64
+1,two thousand,47.64
+1,way,61.2
+1,white,0.18|8.19|16.14|22.68|24.99|34.32|39.84|44.1|48.42|62.85|66.63|79.86|86.07|88.26|110.97|120.57|137.64
+1,white dwarf,0.18|8.19|16.14|22.68|24.99|34.32|39.84|44.1|48.42|62.85|66.63|79.86|86.07|88.26|110.97|120.57|137.64
+1,william,45.63
+2,africa,3.84|102.21
+2,age,153.78
+2,ago,19.92
+2,along,4.92
+2,also,14.88|97.77|115.2|122.43
+2,animal,65.46
+2,animal farm,65.46
+2,ape,92.94
+2,back,148.14
+2,be,84.18|98.19
+2,branch,61.38|61.89
+2,can,53.07|83.58|97.53|141.33
+2,can not,53.07|83.58|97.53|141.33
+2,central,2.7|101.16
+2,chimpanzee,140.43
+2,diet,88.86|121.74
+2,eat,130.59
+2,eight,10.17
+2,female,33.93
+2,female african,33.93
+2,female african elephant,33.93
+2,great,1.2|92.61
+2,great ape,1.2|92.61
+2,help,59.25
+2,human,85.74
+2,know go,67.53
+2,language,86.64
+2,later,147.09
+2,life,42.42
+2,live,25.08|95.07
+2,long,56.22
+2,long term,56.22
+2,male,28.89|30.51|33.33
+2,male female african,28.89|30.51|33.33
+2,ninety,9.72
+2,ninety nine,9.72
+2,not,156.06
+2,not penny,156.06
+2,one,46.5|66.06
+2,one hundred,46.5|66.06
+2,one hundred fifty,46.5|66.06
+2,open,77.52|136.47
+2,other,126.42
+2,percent,11.19
+2,point,10.47
+2,seven,10.8|18.03
+2,share,15.75
+2,sleep,103.98|111.09
+2,small,131.55
+2,small penguin,131.55
+2,social,23.94|42.03
+2,thing,100.8
+2,thirteen,18.63|154.29
+2,thirteen point,18.63|154.29
+2,though,93.63|118.02
+2,time,142.35|148.83
+2,time alliance,142.35|148.83
+2,tree,107.73
+2,typically,105.33|143.46
+2,use,63.33|67.98|71.16|76.05|84.75
+2,walk,49.53|53.88
+2,water,81.54
+2,west,3.48
+2,year,142.95
+2,year ago,142.95
+2,year clearly,142.95
+2,year clearly joke,142.95
+2,year depend,142.95
+2,year depend specie,142.95
+2,year four,142.95
+2,year four pilgrimage,142.95
+2,year old,142.95
+2,year old drive,142.95
+2,year shakespeare,142.95
+2,year shakespeare also,142.95
+3,account,36.09|41.52
+3,along,30.12|179.16
+3,also,109.17|186.15
+3,appetite,87.06
+3,bank,41.22|42.72
+3,be,39.99|110.67|116.01|136.65|232.92|242.58|247.17|261.6
+3,bitcoin,27.96|70.5|126.42|207.48
+3,blue,230.43
+3,blue whale,230.43
+3,buy,6.75|238.68
+3,can,57.78|97.38|115.83|124.02|238.47|242.34|246.93|267.51
+3,can not,57.78|97.38|115.83|124.02|238.47|242.34|246.93|267.51
+3,certain,100.41
+3,click,184.17
+3,coin,102.54|129.78
+3,create,24.45|35.01
+3,crypto,4.11|10.17|12.27|26.64|31.17|43.14|101.22|118.29|164.7|177.93
+3,crypto exchange,4.11|10.17|12.27|26.64|31.17|43.14|101.22|118.29|164.7|177.93
+3,crypto exchange india,4.11|10.17|12.27|26.64|31.17|43.14|101.22|118.29|164.7|177.93
+3,crypto not,4.11|10.17|12.27|26.64|31.17|43.14|101.22|118.29|164.7|177.93
+3,cryptocurrency,20.07|66.9|229.11
+3,eighteen fifty,139.41
+3,eighteen fifty five,139.41
+3,exchange,10.5|31.56|33.27|35.61|37.53|44.19|90.84|166.41|178.26|231.57
+3,exchange india,10.5|31.56|33.27|35.61|37.53|44.19|90.84|166.41|178.26|231.57
+3,field,201.48
+3,field astronomy,201.48
+3,first,22.95|69.21|194.52|207.12
+3,fix,97.56
+3,fix income,97.56
+3,fix income phone,97.56
+3,four,3.57|92.4|122.88
+3,four sonnet,3.57|92.4|122.88
+3,get,152.52|191.22
+3,help,274.56
+3,hundred,125.07|193.05|196.2
+3,hundred fifty,125.07|193.05|196.2
+3,hundred fifty four,125.07|193.05|196.2
+3,hundred thousand,125.07|193.05|196.2
+3,hundred thousand year,125.07|193.05|196.2
+3,india,5.34|71.37|119.34|159.78|170.07
+3,invest,52.23
+3,invest fix,52.23
+3,investor,22.08|33.87|237.96
+3,know go,61.53|62.52|102.42
+3,later,74.81
+3,light,129.3
+3,low,148.11
+3,maximum return,233.1
+3,money,275.79
+3,new,14.49|187.71|199.74
+3,new investor,14.49|187.71|199.74
+3,not,82.05|96.87
+3,not penny,82.05|96.87
+3,one,45.15|66.09|91.92|117.3|171.15|209.22|233.85
+3,one hundred,45.15|66.09|91.92|117.3|171.15|209.22|233.85
+3,one hundred fifty,45.15|66.09|91.92|117.3|171.15|209.22|233.85
+3,open,25.8
+3,option,83.55|158.19
+3,other,130.77|149.37|243.6
+3,platform,226.53
+3,play,250.77
+3,point,92.13
+3,popular,63.63|210.09
+3,process,261.0
+3,right,265.74
+3,right whale,265.74
+3,risk,86.73
+3,risk appetite,86.73
+3,security,49.38|180.12|255.81
+3,sell,100.14
+3,service,38.01|273.63
+3,seven,92.67
+3,since,214.8
+3,step,88.98
+3,ten year,218.55
+3,thirteen,79.59
+3,thirteen point,79.59
+3,thousand,79.2|138.87|170.52|215.28
+3,thousand year,79.2|138.87|170.52|215.28
+3,thousand year ago,79.2|138.87|170.52|215.28
+3,time,98.94|221.01
+3,time alliance,98.94|221.01
+3,top,3.15|55.17|117.72
+3,top bottom perform,3.15|55.17|117.72
+3,top ten,3.15|55.17|117.72
+3,trade,104.58|106.71|161.46
+3,transaction,282.18
+3,twenty,170.88
+3,twenty seventeen,170.88
+3,two,6.99|79.05|124.89|138.72|170.34|204.84|215.13|273.36
+3,two percent,6.99|79.05|124.89|138.72|170.34|204.84|215.13|273.36
+3,two thousand,6.99|79.05|124.89|138.72|170.34|204.84|215.13|273.36
+3,user,111.27|177.24
+3,user friendly,111.27|177.24
+3,via,36.57|43.65
+3,via exchange,36.57|43.65
+3,within less,262.2
+3,within less century,262.2
+3,within two,262.2
+3,within two thousand,262.2
+3,work,28.92
+3,work progressive,28.92
+3,work progressive work,28.92
+3,work use,28.92
+3,work use technology,28.92
+3,worth,219.6
+3,worth hold,219.6
+3,worth hold onto,219.6
+3,worth less,219.6
+3,worth less pocket,219.6
+3,worth mean,219.6
+3,worth mean company,219.6
+3,year,195.0
+3,year ago,195.0
+3,year clearly,195.0
+3,year clearly joke,195.0
+3,year depend,195.0
+3,year depend specie,195.0
+3,year four,195.0
+3,year four pilgrimage,195.0
+3,year old,195.0
+3,year old drive,195.0
+3,year shakespeare,195.0
+3,year shakespeare also,195.0
+4,also,67.14|87.3|143.07|167.1|181.86|238.23|272.04|275.37
+4,asset,44.34|138.66|161.04|173.49|180.6|190.98
+4,bank,69.0
+4,be,161.91|183.48|197.1|275.82
+4,blockchain,74.46
+4,budget,15.66|98.88|283.92
+4,can,91.2|196.83|240.78
+4,can not,91.2|196.83|240.78
+4,central,68.58
+4,ceo,104.31|112.26|206.61
+4,change,132.54
+4,class,44.64|138.96
+4,coin,255.48
+4,crypto,13.95|81.48|85.29|93.33|123.21|134.52|233.94|242.88|296.22|313.86
+4,crypto exchange,13.95|81.48|85.29|93.33|123.21|134.52|233.94|242.88|296.22|313.86
+4,crypto exchange india,13.95|81.48|85.29|93.33|123.21|134.52|233.94|242.88|296.22|313.86
+4,crypto not,13.95|81.48|85.29|93.33|123.21|134.52|233.94|242.88|296.22|313.86
+4,cryptocurrency,27.12|42.63|106.05|216.42|255.9|263.52
+4,currency,69.81
+4,digital,39.81|59.43|69.42|122.13|130.83|154.77|160.71|173.07|190.35|315.45
+4,digital asset,39.81|59.43|69.42|122.13|130.83|154.77|160.71|173.07|190.35|315.45
+4,exchange,106.83|256.56
+4,exchange india,106.83|256.56
+4,finance,54.03
+4,financial,91.68
+4,first,186.57
+4,founder,103.71
+4,get,285.99
+4,go,97.02|303.12
+4,good,95.28|290.07
+4,good service,95.28|290.07
+4,government,66.63|128.19|166.44
+4,include,60.96
+4,include blue,60.96
+4,include blue whale,60.96
+4,income,163.56|245.22
+4,income phone,163.56|245.22
+4,india,12.36|86.25|246.78|252.6
+4,investment,241.44
+4,investor,287.88
+4,know go,255.3
+4,live,269.58
+4,long,198.18
+4,long term,198.18
+4,make,241.02
+4,market,191.31
+4,market condition,191.31
+4,market risk,191.31
+4,move,41.28|48.09|110.13|224.79
+4,mutual,227.88
+4,mutual fund,227.88
+4,mutual fund scheme,227.88
+4,network,208.92
+4,non,62.94|308.07
+4,non breeding,62.94|308.07
+4,non breeding season,62.94|308.07
+4,not,20.16|46.47|229.83|253.92
+4,not penny,20.16|46.47|229.83|253.92
+4,one,174.72|248.94|279.9
+4,one hundred,174.72|248.94|279.9
+4,one hundred fifty,174.72|248.94|279.9
+4,other,154.47|163.29|210.75|295.44
+4,percent,23.79|51.36|148.98|174.93|231.84|246.24
+4,platform,271.53
+4,propose,182.85
+4,right,124.53
+4,right whale,124.53
+4,see,35.25|127.59|254.28
+4,step,123.84|129.6|186.96
+4,stock,227.46
+4,system,85.77
+4,tax,14.43|26.28|149.58|215.43|245.61
+4,taxation,38.97|58.08|81.84|109.59|120.18|196.2|300.57
+4,technology,74.91
+4,thirty,23.55|50.79|148.26|212.76|231.54|246.0
+4,thirty percent,23.55|50.79|148.26|212.76|231.54|246.0
+4,thousand,16.32|75.81
+4,thousand year,16.32|75.81
+4,thousand year ago,16.32|75.81
+4,today,80.4
+4,token,314.22
+4,towards,32.4|41.52|129.9|187.26|220.77
+4,trade,202.92
+4,transfer,159.69|172.08|203.52
+4,twenty,16.8|76.23|77.4
+4,twenty seventeen,16.8|76.23|77.4
+4,two,16.14|17.07|75.63|76.56
+4,two percent,16.14|17.07|75.63|76.56
+4,two thousand,16.14|17.07|75.63|76.56
+4,understand,99.39|293.97
+4,virtual,59.01|121.08|160.29|172.68|180.21|278.19
+4,virtual digital,59.01|121.08|160.29|172.68|180.21|278.19
+4,virtual digital asset,59.01|121.08|160.29|172.68|180.21|278.19
+4,way,136.56
+4,well,65.04|293.64
+4,would institute,223.53
+4,would institute accept,223.53
+5,also,93.66
+5,be,92.22|136.77
+5,big,5.43|60.12|132.57
+5,bitcoin,81.51|96.75
+5,burn,64.32
+5,buy,41.25
+5,call,81.15
+5,can,6.81
+5,can not,6.81
+5,change,7.26
+5,coin,54.63
+5,company,24.78
+5,crypto,3.45|17.43|68.94|90.63|118.92|128.25
+5,crypto exchange,3.45|17.43|68.94|90.63|118.92|128.25
+5,crypto exchange india,3.45|17.43|68.94|90.63|118.92|128.25
+5,crypto not,3.45|17.43|68.94|90.63|118.92|128.25
+5,cryptocurrency,32.88|50.76|107.52|120.48
+5,eight,110.1
+5,fifty,78.42
+5,fifty five,78.42
+5,fifty four,78.42
+5,fifty four sonnet,78.42
+5,financial,110.28
+5,get,56.73|87.23
+5,hear,93.99
+5,joke,13.44|74.37
+5,joking,11.85|82.92
+5,know go,22.5|87.9
+5,market,102.54
+5,market condition,102.54
+5,market risk,102.54
+5,money,126.63
+5,nine,65.07|66.33|69.81
+5,ninety,64.8|66.09
+5,ninety nine,64.8|66.09
+5,not,18.09|75.36|97.71|129.6
+5,not penny,18.09|75.36|97.71|129.6
+5,one,5.13|78.75|105.93|111.81
+5,one hundred,5.13|78.75|105.93|111.81
+5,one hundred fifty,5.13|78.75|105.93|111.81
+5,percent,66.51
+5,point,53.85|84.81
+5,price,33.9|42.87
+5,question,114.84
+5,right,119.79
+5,right whale,119.79
+5,say,75.66
+5,scheme,48.6|62.64|92.97
+5,see,85.83
+5,sell,9.69
+5,thousand,109.56
+5,thousand year,109.56
+5,thousand year ago,109.56
+5,two,94.62|95.04|109.38
+5,two percent,94.62|95.04|109.38
+5,two thousand,94.62|95.04|109.38
+5,understand,89.4|90.24
+5,value,31.56
+5,wish,11.31
+5,wish joking,11.31
+5,wish joking brand,11.31
+5,within less,108.75
+5,within less century,108.75
+5,within two,108.75
+5,within two thousand,108.75
+5,worth,51.48|137.22
+5,worth hold,51.48|137.22
+5,worth hold onto,51.48|137.22
+5,worth less,51.48|137.22
+5,worth less pocket,51.48|137.22
+5,worth mean,51.48|137.22
+5,worth mean company,51.48|137.22
+6,base,67.68
+6,base vaccine,67.68
+6,be,98.25
+6,big,24.42
+6,blockchain,53.04|95.61
+6,can,21.03|98.01
+6,can not,21.03|98.01
+6,change,15.81
+6,cryptocurrency,22.74|32.76|65.22
+6,currency,107.43
+6,difference,24.6
+6,digital,33.84|71.67
+6,digital asset,33.84|71.67
+6,digitally,21.21|112.68
+6,exchange,43.89|99.9
+6,exchange india,43.89|99.9
+6,go,35.43
+6,government,61.74
+6,mine,103.65|113.16
+6,network,53.55
+6,next,12.96|18.57|37.56
+6,not,66.06
+6,not penny,66.06
+6,often,81.0|88.23
+6,one,87.39
+6,one hundred,87.39
+6,one hundred fifty,87.39
+6,other,106.59
+6,small,15.45
+6,small penguin,15.45
+6,technology,53.94|94.89
+6,time,18.81
+6,time alliance,18.81
+6,token,12.24
+6,transaction,58.26
+6,transparency,55.41|77.91
+6,use,43.05
+6,value,104.35
+6,virtual,34.53
+6,virtual digital,34.53
+6,virtual digital asset,34.53
+6,volatility,85.83
+6,volatility one,85.83
+6,volatility one credibility,85.83
+6,vr,68.55
+6,vr information,68.55
+6,vr information tool,68.55
+6,word,13.41
+6,word pawnshop,13.41
+6,word pawnshop lieu,13.41
+6,work,92.43|94.23
+6,work progressive,92.43|94.23
+6,work progressive work,92.43|94.23
+6,work use,92.43|94.23
+6,work use technology,92.43|94.23
+6,would institute,28.86
+6,would institute accept,28.86
+7,also,6.6|204.99
+7,asset,13.74|194.88
+7,average,26.82|188.46
+7,be,66.9|126.93
+7,behind,135.03
+7,bitcoin,111.36|126.24|195.39
+7,bottom perform coin,17.82|28.8
+7,coin,53.73
+7,combination,141.51
+7,correlation,206.61|212.07
+7,crypto,37.44|194.49
+7,crypto exchange,37.44|194.49
+7,crypto exchange india,37.44|194.49
+7,crypto not,37.44|194.49
+7,cryptocurrency,4.05|71.58|87.66|165.15|213.51
+7,difference,15.78|27.39|189.72
+7,diversification,36.12|164.1
+7,eighty,81.45
+7,eighty six,81.45
+7,first,176.49
+7,forty,93.54|120.36
+7,four,23.01
+7,four sonnet,23.01
+7,grow task,48.45
+7,hogan,129.21|197.22
+7,hundred,31.71
+7,hundred fifty,31.71
+7,hundred fifty four,31.71
+7,hundred thousand,31.71
+7,hundred thousand year,31.71
+7,inherent,70.02|177.42
+7,inherent volatility,70.02|177.42
+7,investment,165.87
+7,july,86.97|114.6
+7,last,5.25
+7,last specie,5.25
+7,level protection,96.6
+7,light,222.33
+7,live,102.21
+7,main,162.39
+7,market,72.87|183.69|198.45|214.14
+7,market condition,72.87|183.69|198.45|214.14
+7,market risk,72.87|183.69|198.45|214.14
+7,massive,150.54
+7,massive star,150.54
+7,maximum return,55.44|112.98
+7,may,82.38
+7,mean,158.61
+7,month,157.71|159.78
+7,new,11.76|96.24|135.86
+7,new investor,11.76|96.24|135.86
+7,next,59.91
+7,nine,24.27|61.47
+7,one,86.22|91.86|157.44|176.79
+7,one hundred,86.22|91.86|157.44|176.79
+7,one hundred fifty,86.22|91.86|157.44|176.79
+7,other,119.52|207.36
+7,percent,24.54|32.01|81.66|86.43|121.53|191.82
+7,point,24.03|85.95
+7,price,27.15|39.15|211.71
+7,reason,182.34
+7,report,12.51|34.05|149.13|161.67|218.52|230.4
+7,report bitcoin,12.51|34.05|149.13|161.67|218.52|230.4
+7,report state,12.51|34.05|149.13|161.67|218.52|230.4
+7,return,55.92
+7,return top,55.92
+7,seventy,22.29
+7,seventy four,22.29
+7,signal,68.49
+7,six,85.68
+7,support,225.63
+7,ten year,39.96|153.09
+7,thirty,85.44
+7,thirty percent,85.44
+7,time,89.25
+7,time alliance,89.25
+7,top,17.31|28.23|39.69|152.73|156.54
+7,top bottom perform,17.31|28.23|39.69|152.73|156.54
+7,top ten,17.31|28.23|39.69|152.73|156.54
+7,twenty,45.06|82.53
+7,twenty seventeen,45.06|82.53
+7,two,121.35|172.17|191.61
+7,two percent,121.35|172.17|191.61
+7,two thousand,121.35|172.17|191.61
+7,volatility,70.71|110.16|177.93
+7,volatility one,70.71|110.16|177.93
+7,volatility one credibility,70.71|110.16|177.93
+7,within less,37.05
+7,within less century,37.05
+7,within two,37.05
+7,within two thousand,37.05
+7,would institute,125.01
+7,would institute accept,125.01
+7,year,30.87|43.02
+7,year ago,30.87|43.02
+7,year clearly,30.87|43.02
+7,year clearly joke,30.87|43.02
+7,year depend,30.87|43.02
+7,year depend specie,30.87|43.02
+7,year four,30.87|43.02
+7,year four pilgrimage,30.87|43.02
+7,year old,30.87|43.02
+7,year old drive,30.87|43.02
+7,year shakespeare,30.87|43.02
+7,year shakespeare also,30.87|43.02
+8,account,66.75
+8,also,99.06
+8,appearance,22.23|38.88
+8,appearance life,22.23|38.88
+8,bird,2.13
+8,black,52.08
+8,black white,52.08
+8,century,28.62|82.23
+8,flightless,1.47|72.18
+8,food,57.57|75.24
+8,grey,46.02|50.1
+8,help,56.49
+8,human,87.21
+8,kilogram,19.59
+8,life,23.07|39.6
+8,live,36.39
+8,main,60.75
+8,may,16.26
+8,meter,15.48
+8,ocean,7.5
+8,one,15.18|66.48
+8,one hundred,15.18|66.48
+8,one hundred fifty,15.18|66.48
+8,pigeon,11.46
+8,point,17.31|18.87
+8,relative,9.48|76.38
+8,since,29.64|32.52
+8,six,17.64
+8,ten year,17.01
+8,vicious east madagascar,4.41
+8,wild,20.61
+8,wild todo,20.61
+8,wild todo appearance,20.61
+8,within less,81.24
+8,within less century,81.24
+8,within two,81.24
+8,within two thousand,81.24
+8,yellow,47.07|52.74
+8,yellow foot,47.07|52.74
+8,yellow foot cuft,47.07|52.74
+8,yellow green,47.07|52.74
+8,yellow green beak,47.07|52.74
+9,along,15.93
+9,also,94.02|133.92
+9,asian,20.76
+9,asian elephant,20.76
+9,be,31.26
+9,can,30.6|54.0|58.8|90.21
+9,can not,30.6|54.0|58.8|90.21
+9,change,125.58|135.48
+9,climate,125.13|135.03
+9,climate change,125.13|135.03
+9,communicate,63.39|100.14
+9,dolphin,8.61|21.48|23.22|29.01|34.86|53.37
+9,eight,100.8
+9,eighteen fifty,91.86
+9,eighteen fifty five,91.86
+9,fish,39.78
+9,fishing,112.62|144.21
+9,food,127.86
+9,freshwater,25.56|145.29
+9,grow task,30.87
+9,heat,132.96
+9,language,68.07
+9,live,13.71|25.2
+9,location,42.54|48.78
+9,long,32.37|36.9
+9,long term,32.37|36.9
+9,main,109.2|121.77
+9,make,54.21
+9,marine,13.05|132.45
+9,move,128.97
+9,number,59.04
+9,ocean,10.98|14.28|123.54
+9,often,95.16
+9,one,79.2
+9,one hundred,79.2
+9,one hundred fifty,79.2
+9,produce,80.82
+9,river,21.18|22.92
+9,river dolphin,21.18|22.92
+9,six,8.25|84.39
+9,size,49.68
+9,size sun,49.68
+9,small,0.93
+9,small penguin,0.93
+9,social,62.16
+9,south,20.37
+9,south border,20.37
+9,squid,40.35
+9,thirty,7.86|31.74
+9,thirty percent,7.86|31.74
+9,thousand,54.9
+9,thousand year,54.9
+9,thousand year ago,54.9
+9,threat,109.56|147.6
+9,today,108.21
+9,toothed,1.26
+9,toothed whale,1.26
+9,warm,75.69
+9,water,97.92|130.71
+9,whether dolphin language,66.99
+9,young dolphin,77.1
+9,young dolphin one,77.1
+9,young two,77.1
+9,young two type,77.1
+10,adult eighteen,130.83
+10,adult eighteen fifty,130.83
+10,african,19.08|51.09|59.94|65.85|73.2|83.73|90.09
+10,african elephant,19.08|51.09|59.94|65.85|73.2|83.73|90.09
+10,african elephant grow,19.08|51.09|59.94|65.85|73.2|83.73|90.09
+10,african specie,19.08|51.09|59.94|65.85|73.2|83.73|90.09
+10,also,40.83
+10,asian,64.11|70.38|79.17|86.4
+10,asian elephant,64.11|70.38|79.17|86.4
+10,average,148.59
+10,be,22.62|33.27|41.19|129.24
+10,calf,105.18
+10,can,22.02|33.09|40.62|150.0
+10,can not,22.02|33.09|40.62|150.0
+10,comparable,67.65
+10,differ,71.4|127.89
+10,eighteen fifty,150.81
+10,eighteen fifty five,150.81
+10,elephant,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,elephant grow,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,elephant grow task,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,elephant large,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,elephant mammoth,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,elephant task,29.01|34.35|53.73|55.14|61.05|62.37|65.04|66.9|149.52
+10,example,78.42
+10,female,18.54|89.55|106.26|118.35|131.19
+10,female african,18.54|89.55|106.26|118.35|131.19
+10,female african elephant,18.54|89.55|106.26|118.35|131.19
+10,find,47.43
+10,food,37.65|145.8
+10,forest,54.54|64.5|66.39|125.94|136.2
+10,forest elephant,54.54|64.5|66.39|125.94|136.2
+10,four,107.58
+10,four sonnet,107.58
+10,grow task,20.16|91.2
+10,herd,116.1|120.72
+10,land,1.47|141.51
+10,large,5.13|81.99
+10,leave,123.45
+10,live,101.25
+10,long,6.57
+10,long term,6.57
+10,male,17.94|86.04|88.95
+10,male female african,17.94|86.04|88.95
+10,mammal,113.31
+10,massive,3.99
+10,massive star,3.99
+10,may,99.84|119.22|129.03|134.16
+10,move,36.06
+10,number,56.13
+10,often,158.55
+10,one,24.75
+10,one hundred,24.75
+10,one hundred fifty,24.75
+10,other,12.09|16.23
+10,right,23.37
+10,right whale,23.37
+10,size,69.09
+10,size sun,69.09
+10,small,102.75
+10,small penguin,102.75
+10,social,96.72|127.02
+10,tear,28.2
+10,ten year,75.21
+10,twenty,110.97
+10,twenty seventeen,110.97
+10,two,111.3
+10,two percent,111.3
+10,two thousand,111.3
+10,underground,48.21
+10,underground base,48.21
+10,use,8.1|25.23|45.66
+10,water,13.95|47.82|146.49
+11,also,85.92|106.71
+11,asset,137.97|165.24
+11,average,18.78|97.2|148.38
+11,bank,12.24|21.57|31.71
+11,be,94.62|100.5
+11,can,78.21|110.94|121.5|154.32|157.59
+11,can not,78.21|110.94|121.5|154.32|157.59
+11,challenge,125.52
+11,class,138.27
+11,debt,55.29|69.72
+11,debt mutual,55.29|69.72
+11,debt mutual fund,55.29|69.72
+11,eighteen fifty,35.67
+11,eighteen fifty five,35.67
+11,equity,84.87|128.97|136.47|149.4|158.46
+11,fifty,29.43
+11,fifty five,29.43
+11,fifty four,29.43
+11,fifty four sonnet,29.43
+11,financial,24.6
+11,four,28.02
+11,four sonnet,28.02
+11,fund,66.96|174.63
+11,fund manager,66.96|174.63
+11,fund scheme,66.96|174.63
+11,government,13.92
+11,house,44.76
+11,household,19.65|24.12
+11,hundred,29.13|60.99
+11,hundred fifty,29.13|60.99
+11,hundred fifty four,29.13|60.99
+11,hundred thousand,29.13|60.99
+11,hundred thousand year,29.13|60.99
+11,income,45.54|87.03|103.05|114.78|121.11|150.87|156.75
+11,income phone,45.54|87.03|103.05|114.78|121.11|150.87|156.75
+11,india,22.05
+11,invest,78.39
+11,invest fix,78.39
+11,investment,17.79|54.48|88.29|176.34
+11,investor,162.33
+11,last,56.85|152.04
+11,last specie,56.85|152.04
+11,long,79.14|87.74|123.0|130.95|138.81|142.11|160.68
+11,long term,79.14|87.74|123.0|130.95|138.81|142.11|160.68
+11,market,104.61|124.17|155.24|177.57
+11,market condition,104.61|124.17|155.24|177.57
+11,market risk,104.61|124.17|155.24|177.57
+11,month,73.77
+11,mutual,55.65|66.63|69.93|165.57
+11,mutual fund,55.65|66.63|69.93|165.57
+11,mutual fund scheme,55.65|66.63|69.93|165.57
+11,net,54.31
+11,net worth,54.31
+11,not,83.73|170.67
+11,not penny,83.73|170.67
+11,often,125.07
+11,one,57.12|127.98
+11,one hundred,57.12|127.98
+11,one hundred fifty,57.12|127.98
+11,other,40.44|75.12|93.84
+11,phone,115.26
+11,point,96.45
+11,power compound,80.97|82.5
+11,price,96.0
+11,regular,76.68|92.13
+11,sap,65.73|69.03|110.13
+11,scheme,173.97|178.98
+11,see,154.44
+11,seven,28.83
+11,share,43.47
+11,since,101.82
+11,small,14.47|48.0
+11,small penguin,14.47|48.0
+11,take,111.6
+11,ten year,153.27|160.92
+11,term,123.27|131.19|139.05|142.41
+11,thousand,28.38|35.13|52.2|58.56
+11,thousand year,28.38|35.13|52.2|58.56
+11,thousand year ago,28.38|35.13|52.2|58.56
+11,time,79.89
+11,time alliance,79.89
+11,today,134.64
+11,twenty,52.68|58.98
+11,twenty seventeen,52.68|58.98
+11,two,34.89|52.05|58.44|60.84|109.77
+11,two percent,34.89|52.05|58.44|60.84|109.77
+11,two thousand,34.89|52.05|58.44|60.84|109.77
+11,volatility,107.58
+11,volatility one,107.58
+11,volatility one credibility,107.58
+11,way,171.42
+11,work,70.71|84.36
+11,work progressive,70.71|84.36
+11,work progressive work,70.71|84.36
+11,work use,70.71|84.36
+11,work use technology,70.71|84.36
+11,year,34.08|37.11|57.33
+11,year ago,34.08|37.11|57.33
+11,year clearly,34.08|37.11|57.33
+11,year clearly joke,34.08|37.11|57.33
+11,year depend,34.08|37.11|57.33
+11,year depend specie,34.08|37.11|57.33
+11,year four,34.08|37.11|57.33
+11,year four pilgrimage,34.08|37.11|57.33
+11,year old,34.08|37.11|57.33
+11,year old drive,34.08|37.11|57.33
+11,year shakespeare,34.08|37.11|57.33
+11,year shakespeare also,34.08|37.11|57.33
+12,accounting,12.51|17.25
+12,behind,22.41
+12,business,29.58|71.91|143.79
+12,can,120.33|139.77|144.24
+12,can not,120.33|139.77|144.24
+12,certain,68.16|103.11
+12,company,88.38
+12,corporate,16.08|95.67
+12,corporate finance,16.08|95.67
+12,currency,106.02
+12,difference,74.37
+12,finance,9.42|16.62|19.98|43.14|96.36
+12,financial,6.51|49.02|51.69|61.89|79.65|84.81|147.66
+12,good,84.54
+12,good service,84.54
+12,impact,120.87|146.79
+12,income,112.02
+12,income phone,112.02
+12,inflation,97.56|107.46|114.99|119.73
+12,initial,114.25
+12,liquidity,127.62|137.82
+12,market,37.86
+12,market condition,37.86
+12,market risk,37.86
+12,may,58.8
+12,money,45.55|140.4
+12,net,82.5|87.18
+12,net worth,82.5|87.18
+12,network,55.47|64.71|72.9
+12,often,10.2
+12,one,57.3|59.58|107.16
+12,one hundred,57.3|59.58|107.16
+12,one hundred fifty,57.3|59.58|107.16
+12,organization,34.65|117.24
+12,other,14.64|78.9
+12,point,121.92
+12,position,33.6
+12,price,121.59
+12,professional,7.14
+12,since,138.39
+12,start,48.0|57.78
+12,time,41.79|59.88|141.21
+12,time alliance,41.79|59.88|141.21
+12,today,60.57|135.39
+12,total,75.27|76.38
+12,two,65.88
+12,two percent,65.88
+12,two thousand,65.88
+12,value,69.57|104.79|132.72
+12,well,25.59|148.26
+12,within less,34.17
+12,within less century,34.17
+12,within two,34.17
+12,within two thousand,34.17
+12,work,134.49
+12,work progressive,134.49
+12,work progressive work,134.49
+12,work use,134.49
+12,work use technology,134.49
+12,worth,82.77|87.42
+12,worth hold,82.77|87.42
+12,worth hold onto,82.77|87.42
+12,worth less,82.77|87.42
+12,worth less pocket,82.77|87.42
+12,worth mean,82.77|87.42
+12,worth mean company,82.77|87.42
+13,adaptation,50.67|56.67|87.09
+13,almost,21.54
+13,also,106.68
+13,archer,0.87|1.95|31.02|88.62|106.08|140.19|147.48
+13,autumn,35.76|47.67
+13,autumn nineteen,35.76|47.67
+13,autumn nineteen seventy,35.76|47.67
+13,bbc,52.17|55.38
+13,be,64.11
+13,become,94.2
+13,bestseller,89.01
+13,book,32.28|57.87
+13,character,98.22
+13,collection,144.99|156.66
+13,eight,117.69|138.12
+13,eighty,80.07|112.62|137.85
+13,eighty six,80.07|112.62|137.85
+13,english,7.11
+13,finance,19.68
+13,first,31.92|44.58|89.94|109.23
+13,forty,6.15
+13,four,16.92|37.47|53.31|92.67
+13,four sonnet,16.92|37.47|53.31|92.67
+13,hundred,28.23
+13,hundred fifty,28.23
+13,hundred fifty four,28.23
+13,hundred thousand,28.23
+13,hundred thousand year,28.23
+13,life,8.34
+13,long,154.53
+13,long term,154.53
+13,new,67.17
+13,new investor,67.17
+13,next,118.53
+13,nine,15.42|63.06
+13,nineteen,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,nineteen eighty,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,nineteen eighty six,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,nineteen forty,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,nineteen seventy,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,nineteen seventy four,5.52|14.37|15.84|36.36|48.18|54.15|59.19|61.95|79.47|112.02|137.22
+13,ninety,59.73
+13,ninety nine,59.73
+13,not,18.0|32.79|34.05|120.57
+13,not penny,18.0|32.79|34.05|120.57
+13,novel,97.44
+13,novelist,7.5|25.59
+13,number,66.15|101.31
+13,one,66.45
+13,one hundred,66.45
+13,one hundred fifty,66.45
+13,penny,33.15|34.41
+13,play,118.83|125.43|140.82
+13,radio,50.28|52.89
+13,royal,128.04|133.56
+13,seven,112.89
+13,seventy,16.38|36.93|48.78|62.55
+13,seventy four,16.38|36.93|48.78|62.55
+13,short,105.03|144.24|158.07
+13,short story,105.03|144.24|158.07
+13,short ton,105.03|144.24|158.07
+13,six,49.2|130.32
+13,story,92.01|141.75|144.6|149.67
+13,tall,155.1
+13,tall weigh,155.1
+13,television,56.01|77.22
+13,theatre,114.39|127.65|133.17
+13,theatre royal,114.39|127.65|133.17
+13,thousand,130.98|160.83
+13,thousand year,130.98|160.83
+13,thousand year ago,130.98|160.83
+13,twenty,28.65|117.27|129.93|161.32
+13,twenty seventeen,28.65|117.27|129.93|161.32
+13,two,130.71|160.62
+13,two percent,130.71|160.62
+13,two thousand,130.71|160.62
+13,well,104.07|120.96
+13,west,115.41|135.03
+13,work,65.19|71.19
+13,work progressive,65.19|71.19
+13,work progressive work,65.19|71.19
+13,work use,65.19|71.19
+13,work use technology,65.19|71.19
+13,year,84.51|116.49
+13,year ago,84.51|116.49
+13,year clearly,84.51|116.49
+13,year clearly joke,84.51|116.49
+13,year depend,84.51|116.49
+13,year depend specie,84.51|116.49
+13,year four,84.51|116.49
+13,year four pilgrimage,84.51|116.49
+13,year old,84.51|116.49
+13,year old drive,84.51|116.49
+13,year shakespeare,84.51|116.49
+13,year shakespeare also,84.51|116.49
+14,africa,43.38
+14,african,34.59|128.49
+14,african elephant,34.59|128.49
+14,african elephant grow,34.59|128.49
+14,african specie,34.59|128.49
+14,ago,10.74|39.6|57.48|65.43
+14,america,182.13|187.71
+14,asian,104.01|129.33
+14,asian elephant,104.01|129.33
+14,back,170.52
+14,be,151.32
+14,become,167.7
+14,bottom perform coin,169.23
+14,calf,123.93
+14,can,151.08
+14,can not,151.08
+14,change,16.26
+14,climate,12.81|15.81
+14,climate change,12.81|15.81
+14,eight,90.24|91.26|91.95
+14,elephant,104.37
+14,elephant grow,104.37
+14,elephant grow task,104.37
+14,elephant large,104.37
+14,elephant mammoth,104.37
+14,elephant task,104.37
+14,emperor image,61.65|175.23
+14,eurasia,52.71|182.88|195.21
+14,evolutionary,145.74
+14,four,8.64|63.84|85.38
+14,four sonnet,8.64|63.84|85.38
+14,genus,5.52|147.27|178.26
+14,group,2.07
+14,history,146.58
+14,hundred,9.93|56.16|64.17
+14,hundred fifty,9.93|56.16|64.17
+14,hundred fifty four,9.93|56.16|64.17
+14,hundred thousand,9.93|56.16|64.17
+14,hundred thousand year,9.93|56.16|64.17
+14,image,62.01|175.59
+14,land,21.51
+14,large,81.03|94.29|102.96
+14,last,58.47|176.94|190.17
+14,last specie,58.47|176.94|190.17
+14,least,55.44
+14,long,25.77|30.21
+14,long term,25.77|30.21
+14,mammoth,0.15|6.0|23.82|33.15|35.1|60.9|101.52|141.12|149.91|174.48|181.14
+14,mammoth emperor,0.15|6.0|23.82|33.15|35.1|60.9|101.52|141.12|149.91|174.48|181.14
+14,mammoth emperor image,0.15|6.0|23.82|33.15|35.1|60.9|101.52|141.12|149.91|174.48|181.14
+14,mass,192.6
+14,may,95.19
+14,modern,78.6|103.65|117.54
+14,new,159.63
+14,new investor,159.63
+14,north,46.98|181.8|187.47
+14,north america,46.98|181.8|187.47
+14,number,152.61
+14,one,87.48
+14,one hundred,87.48
+14,one hundred fifty,87.48
+14,planet,36.3
+14,point,87.09|91.62|97.65|106.08
+14,region,84.75
+14,short,92.19|98.25
+14,short story,92.19|98.25
+14,short ton,92.19|98.25
+14,since,138.3
+14,six,55.77
+14,social,125.64
+14,south,34.23
+14,south border,34.23
+14,southern,42.18
+14,southern hemisphere,42.18
+14,thirteen,86.43|97.08
+14,thirteen point,86.43|97.08
+14,thousand,8.94|56.61|64.59
+14,thousand year,8.94|56.61|64.59
+14,thousand year ago,8.94|56.61|64.59
+14,time,163.8|171.72|189.51
+14,time alliance,163.8|171.72|189.51
+14,top,168.75
+14,top bottom perform,168.75
+14,top ten,168.75
+14,twenty,121.56
+14,twenty seventeen,121.56
+14,two,97.98|105.87|121.86
+14,two percent,97.98|105.87|121.86
+14,two thousand,97.98|105.87|121.86
+14,well,183.84
+14,woolly,60.57|174.18|180.81
+14,woolly mammoth,60.57|174.18|180.81
+14,woolly mammoth emperor,60.57|174.18|180.81
+15,award,24.87|28.35|94.35|95.31
+15,be,111.72
+15,bird,39.6|43.56|49.02|49.86
+15,border,71.91|75.06
+15,british,96.9
+15,character,50.97
+15,collection,109.2|110.37
+15,dance,57.3|57.96|58.62
+15,dance dance,57.3|57.96|58.62
+15,eighteen fifty,99.99
+15,eighteen fifty five,99.99
+15,english,47.61
+15,fifty,13.77|60.96
+15,fifty five,13.77|60.96
+15,fifty four,13.77|60.96
+15,fifty four sonnet,13.77|60.96
+15,forty,3.36
+15,four,67.56
+15,four sonnet,67.56
+15,house,102.66
+15,hundred,86.16
+15,hundred fifty,86.16
+15,hundred fifty four,86.16
+15,hundred thousand,86.16
+15,hundred thousand year,86.16
+15,japan,10.17|17.04
+15,murakami,0.63|77.43|84.03
+15,music,36.51|108.81
+15,new,22.8
+15,new investor,22.8
+15,nine,3.75|60.33
+15,nineteen,2.76|60.48|66.45
+15,nineteen eighty,2.76|60.48|66.45
+15,nineteen eighty six,2.76|60.48|66.45
+15,nineteen forty,2.76|60.48|66.45
+15,nineteen seventy,2.76|60.48|66.45
+15,nineteen seventy four,2.76|60.48|66.45
+15,often,63.57
+15,one,85.26|85.98|115.98
+15,one hundred,85.26|85.98|115.98
+15,one hundred fifty,85.26|85.98|115.98
+15,open,113.82
+15,opera,42.93|52.29
+15,prize,22.26|30.27|31.95|80.88
+15,prophet,44.01|48.54
+15,see,100.5
+15,seven,61.35
+15,short,8.13|27.57
+15,short story,8.13|27.57
+15,short ton,8.13|27.57
+15,six,76.83
+15,song,62.45|70.56|74.16
+15,song south,62.45|70.56|74.16
+15,song south border,62.45|70.56|74.16
+15,source energy,107.25
+15,south,71.31|74.49
+15,south border,71.31|74.49
+15,story,27.96
+15,sun,73.05
+15,take,55.35
+15,thousand,76.32|82.74|89.49|99.45|115.14
+15,thousand year,76.32|82.74|89.49|99.45|115.14
+15,thousand year ago,76.32|82.74|89.49|99.45|115.14
+15,time,85.65
+15,time alliance,85.65
+15,twenty,115.65
+15,twenty seventeen,115.65
+15,two,76.08|82.47|89.25|99.24|114.87
+15,two percent,76.08|82.47|89.25|99.24|114.87
+15,two thousand,76.08|82.47|89.25|99.24|114.87
+15,well,10.89
+15,west,72.48
+15,wood dryer,69.21
+15,wood dryer coastal,69.21
+15,work,12.51|20.34
+15,work progressive,12.51|20.34
+15,work progressive work,12.51|20.34
+15,work use,12.51|20.34
+15,work use technology,12.51|20.34
+15,writer english language,5.34
+15,writer novel essay,5.34
+15,writers,23.07
+15,writers world,23.07
+15,writers world fantasy,23.07
+16,affect,123.6|127.56
+16,also,120.15
+16,appetite,93.63|100.26|157.05|213.63
+16,asset,15.21|66.42
+16,back,249.87
+16,bank,41.13
+16,be,84.63|125.76|172.84|174.39|179.61|241.26
+16,can,22.8|68.58|73.65|96.75|125.49|143.31|204.78|222.87
+16,can not,22.8|68.58|73.65|96.75|125.49|143.31|204.78|222.87
+16,cap,147.9|148.89|252.72
+16,cap fund,147.9|148.89|252.72
+16,cause,143.55
+16,certain,246.48
+16,change,69.42
+16,company,67.44
+16,discuss,108.45
+16,dividend,63.21|69.99
+16,equity,8.04|115.38|249.0
+16,etc,44.28|141.39|239.73
+16,example,134.28|236.43|251.61|255.75
+16,financial,94.38|136.83
+16,first,47.79
+16,fund,16.89|60.81|144.99|148.29|178.11|193.35|205.26|224.43|247.29
+16,fund manager,16.89|60.81|144.99|148.29|178.11|193.35|205.26|224.43|247.29
+16,fund scheme,16.89|60.81|144.99|148.29|178.11|193.35|205.26|224.43|247.29
+16,get,51.51
+16,go,23.01
+16,great,186.45|210.0
+16,great ape,186.45|210.0
+16,help,204.96
+16,income,39.33
+16,income phone,39.33
+16,invest,7.41|47.13|155.61|191.22|212.16|218.34
+16,invest fix,7.41|47.13|155.61|191.22|212.16|218.34
+16,investment,90.84|97.38|101.49|129.33|145.23|208.08|215.01
+16,large,154.26|256.29
+16,liquidity,221.76|247.92
+16,long,207.78
+16,long term,207.78
+16,make,89.91
+16,manager,224.64|240.72
+16,market,13.14|17.97|24.54|29.73|79.89|118.95|124.71|150.96|184.08|195.03|197.04|235.41|239.22|243.42|250.41
+16,market condition,13.14|17.97|24.54|29.73|79.89|118.95|124.71|150.96|184.08|195.03|197.04|235.41|239.22|243.42|250.41
+16,market risk,13.14|17.97|24.54|29.73|79.89|118.95|124.71|150.96|184.08|195.03|197.04|235.41|239.22|243.42|250.41
+16,may,127.29|172.53|178.77|190.92|241.05|245.34
+16,money,11.7
+16,mutual,16.62|28.5|48.36|60.48|87.57|96.06|107.01|116.46|144.72|146.94|160.23|218.79|246.99
+16,mutual fund,16.62|28.5|48.36|60.48|87.57|96.06|107.01|116.46|144.72|146.94|160.23|218.79|246.99
+16,mutual fund scheme,16.62|28.5|48.36|60.48|87.57|96.06|107.01|116.46|144.72|146.94|160.23|218.79|246.99
+16,net,14.94
+16,net worth,14.94
+16,new,140.88
+16,new investor,140.88
+16,nine,138.42
+16,not,57.96|65.04|201.93|220.17|233.43
+16,not penny,57.96|65.04|201.93|220.17|233.43
+16,often,45.15
+16,other,153.0
+16,price,18.3
+16,regular,61.68
+16,return,50.91
+16,return top,50.91
+16,risk,30.18|85.74|89.19|93.36|99.84|106.2|111.03|114.48|119.43|122.94|156.72|163.59|165.48|171.57|175.8|197.46|201.21|213.39|222.36|248.49
+16,risk appetite,30.18|85.74|89.19|93.36|99.84|106.2|111.03|114.48|119.43|122.94|156.72|163.59|165.48|171.57|175.8|197.46|201.21|213.39|222.36|248.49
+16,safe,4.04|52.71|159.48|217.92
+16,saving,43.5
+16,scheme,17.1|61.02|226.59
+16,see,27.18
+16,sell,225.12|241.74
+16,short,58.59
+16,short story,58.59
+16,short ton,58.59
+16,small,43.17|148.56|252.15
+16,small penguin,43.17|148.56|252.15
+16,stock,124.41|167.58|181.35
+16,systematic,120.87
+16,systematic risk,120.87
+16,take,85.26
+16,time,75.81
+16,time alliance,75.81
+16,try,104.64
+16,two,46.05
+16,two percent,46.05
+16,two thousand,46.05
+16,understand,56.28|88.59|104.94|199.74
+16,value,15.48
+16,volatility,143.82|151.35|238.23
+16,volatility one,143.82|151.35|238.23
+16,volatility one credibility,143.82|151.35|238.23
+17,alchemist,15.45|103.2|106.71
+17,bestseller,92.43
+17,book,21.18|26.37|61.89|88.17
+17,brazilian,6.27|21.84|72.21
+17,de,4.71|42.99
+17,eighty,24.03|31.71|44.49|48.6
+17,eighty six,24.03|31.71|44.49|48.6
+17,fifty,17.55
+17,fifty five,17.55
+17,fifty four,17.55
+17,fifty four sonnet,17.55
+17,first,26.01
+17,forty,3.42
+17,four,89.61|111.81
+17,four sonnet,89.61|111.81
+17,house,73.29|80.73
+17,hundred,17.16|75.66
+17,hundred fifty,17.16|75.66
+17,hundred fifty four,17.16|75.66
+17,hundred thousand,17.16|75.66
+17,hundred thousand year,17.16|75.66
+17,impact,29.85
+17,initial,74.34
+17,later,36.18|90.48|103.89
+17,least,109.38
+17,make,28.89
+17,new,61.47
+17,new investor,61.47
+17,next,82.89
+17,nine,75.36|94.65
+17,nineteen,2.82|23.43|31.11|43.92|48.0|88.71
+17,nineteen eighty,2.82|23.43|31.11|43.92|48.0|88.71
+17,nineteen eighty six,2.82|23.43|31.11|43.92|48.0|88.71
+17,nineteen forty,2.82|23.43|31.11|43.92|48.0|88.71
+17,nineteen seventy,2.82|23.43|31.11|43.92|48.0|88.71
+17,nineteen seventy four,2.82|23.43|31.11|43.92|48.0|88.71
+17,ninety,89.22
+17,ninety nine,89.22
+17,not,77.07
+17,not penny,77.07
+17,novel,14.88|109.89
+17,novelist,6.84
+17,often,10.68
+17,one,16.89|63.24|109.65
+17,one hundred,16.89|63.24|109.65
+17,one hundred fifty,16.89|63.24|109.65
+17,pilgrimage,41.52|46.35|112.89
+17,publication,81.78|105.75
+17,publish,87.66
+17,publishing,72.75|80.13
+17,publishing house,72.75|80.13
+17,see,56.31
+17,seven,3.78|48.87
+17,since,38.28|105.24
+17,six,31.98|44.79
+17,small,71.82
+17,small penguin,71.82
+17,take,36.93
+17,thousand,94.14
+17,thousand year,94.14
+17,thousand year ago,94.14
+17,time,20.16
+17,time alliance,20.16
+17,today,57.51
+17,twenty,2.04
+17,twenty seventeen,2.04
+17,two,24.27|93.87|110.64
+17,two percent,24.27|93.87|110.64
+17,two thousand,24.27|93.87|110.64
+17,white,56.88
+17,white dwarf,56.88
+17,write,60.99
+17,write account,60.99
+17,write account seventeenth,60.99
+17,write alchemist,60.99
+17,write book,60.99
+17,write book november,60.99
+17,write book well,60.99
+17,write one,60.99
+17,write one old,60.99
+17,writer english language,22.44
+17,writer novel essay,22.44
+17,year,68.76
+17,year ago,68.76
+17,year clearly,68.76
+17,year clearly joke,68.76
+17,year depend,68.76
+17,year depend specie,68.76
+17,year four,68.76
+17,year four pilgrimage,68.76
+17,year old,68.76
+17,year old drive,68.76
+17,year shakespeare,68.76
+17,year shakespeare also,68.76
+18,adult eighteen,87.18
+18,adult eighteen fifty,87.18
+18,almost,3.87|27.03
+18,also,66.0
+18,average,53.16
+18,be,150.87|159.03
+18,bird,126.63
+18,black,123.57
+18,black white,123.57
+18,blue,65.25
+18,blue whale,65.25
+18,can,117.9|158.82
+18,can not,117.9|158.82
+18,climate,99.09
+18,climate change,99.09
+18,dark,11.1
+18,emperor image,51.42
+18,equator,48.12|98.13
+18,evolutionary,133.17|137.94
+18,expert,114.66
+18,fish,16.53|130.47
+18,flightless,1.74
+18,good,144.81
+18,good service,144.81
+18,great,88.92
+18,great ape,88.92
+18,group,0.81
+18,half,22.89|25.05
+18,hemisphere,5.82|30.42
+18,history,133.98|154.68
+18,human,87.57
+18,inhabit,75.84|78.96
+18,kilogram,59.82|72.3
+18,land,24.12|107.52
+18,least,93.15
+18,life,8.25|18.93
+18,live,3.63|39.27
+18,not,31.74
+18,not penny,31.74
+18,one,44.37|54.87|55.5|72.0|93.51|142.08
+18,one hundred,44.37|54.87|55.5|72.0|93.51|142.08
+18,one hundred fifty,44.37|54.87|55.5|72.0|93.51|142.08
+18,other,17.82|24.75
+18,penguin,27.96|38.76|46.56|51.96|63.6|65.49|67.56|83.67|140.76|153.99
+18,penguin inhabit,27.96|38.76|46.56|51.96|63.6|65.49|67.56|83.67|140.76|153.99
+18,penguin live,27.96|38.76|46.56|51.96|63.6|65.49|67.56|83.67|140.76|153.99
+18,penguin specie,27.96|38.76|46.56|51.96|63.6|65.49|67.56|83.67|140.76|153.99
+18,point,55.17
+18,prehistoric,82.89|148.53
+18,region,95.07
+18,right,111.36
+18,right whale,111.36
+18,sea,18.63|25.56
+18,seven,57.18|61.38
+18,seventy,60.84
+18,seventy four,60.84
+18,since,155.97
+18,size,143.85
+18,size sun,143.85
+18,small,129.42
+18,small penguin,129.42
+18,snow,110.22
+18,snow bunt,110.22
+18,south,40.11|40.32|97.53
+18,south border,40.11|40.32|97.53
+18,southern,5.37|29.97
+18,southern hemisphere,5.37|29.97
+18,squid,17.1|131.79
+18,tall,58.14|71.01|86.07
+18,tall weigh,58.14|71.01|86.07
+18,temperate,43.08|80.13
+18,thirty,59.07|69.51
+18,thirty percent,59.07|69.51
+18,though,102.03|109.74
+18,thousand,96.27|156.57
+18,thousand year,96.27|156.57
+18,thousand year ago,96.27|156.57
+18,today,74.01|100.83
+18,two,96.03|156.36
+18,two percent,96.03|156.36
+18,two thousand,96.03|156.36
+18,water,8.94|113.97|127.26
+18,weigh,58.83
+18,weigh ten,58.83
+18,weigh ten point,58.83
+18,well,135.39
+18,white,11.64|124.53
+18,white dwarf,11.64|124.53
+19,alliance,37.14|63.87
+19,along,133.8
+19,also,107.01
+19,american base,50.04
+19,animal,0.06|69.87
+19,animal farm,0.06|69.87
+19,bbc,105.42
+19,be,17.37
+19,book,9.33|29.82|103.8|108.51|127.32
+19,british,40.5|49.41
+19,can,17.19|77.01
+19,can not,17.19|77.01
+19,create,14.88
+19,describe,99.51|124.83
+19,exploit,144.45|147.27
+19,farm,0.45|11.31|22.65|70.29|127.89
+19,first,4.41
+19,forty,7.77|31.5|33.81|67.86
+19,four,34.2
+19,four sonnet,34.2
+19,great,57.81
+19,great ape,57.81
+19,group,10.83
+19,human,13.32
+19,nazi,39.03|121.32
+19,nineteen,7.14|30.96|33.27|67.29
+19,nineteen eighty,7.14|30.96|33.27|67.29
+19,nineteen eighty six,7.14|30.96|33.27|67.29
+19,nineteen forty,7.14|30.96|33.27|67.29
+19,nineteen seventy,7.14|30.96|33.27|67.29
+19,nineteen seventy four,7.14|30.96|33.27|67.29
+19,number,48.78
+19,one,52.23
+19,one hundred,52.23
+19,one hundred fifty,52.23
+19,orwell,3.69
+19,phenomenon,44.16
+19,pig,27.3|120.69
+19,power compound,142.56
+19,preface,66.69|123.6
+19,publication,55.77
+19,seven,68.22
+19,source energy,125.58
+19,soviet,37.86|116.73
+19,soviet union,37.86|116.73
+19,state,23.82
+19,story,10.11
+19,ten year,131.07
+19,time,36.84|63.6
+19,time alliance,36.84|63.6
+19,union,38.28|117.15
+19,war,36.51|63.33|65.52
+19,war time,36.51|63.33|65.52
+19,war time alliance,36.51|63.33|65.52
+19,way,64.65|99.18|146.34
+19,well,29.22|45.09|97.11|104.49|124.59
+20,also,111.87
+20,american base,100.95
+20,bard,12.15|13.98
+20,be,36.57|44.07
+20,certain,46.14
+20,dramatic,42.87|62.94
+20,english,1.35|6.54
+20,example,70.02
+20,fifty,21.24|48.27
+20,fifty five,21.24|48.27
+20,fifty four,21.24|48.27
+20,fifty four sonnet,21.24|48.27
+20,four,21.57|48.63
+20,four sonnet,21.57|48.63
+20,hundred,20.82|47.88|84.21
+20,hundred fifty,20.82|47.88|84.21
+20,hundred fifty four,20.82|47.88|84.21
+20,hundred thousand,20.82|47.88|84.21
+20,hundred thousand year,20.82|47.88|84.21
+20,language,6.9|31.35|66.12
+20,last,41.4
+20,last specie,41.4
+20,later,59.07|87.06
+20,long,22.92
+20,long term,22.92
+20,nine,19.35|39.87
+20,non,42.6
+20,non breeding,42.6
+20,non breeding season,42.6
+20,not,45.84|71.61
+20,not penny,45.84|71.61
+20,novelist,101.46
+20,often,9.81|32.85
+20,one,20.52|47.55
+20,one hundred,20.52|47.55
+20,one hundred fifty,20.52|47.55
+20,other,25.02|34.08
+20,playwright,1.74|34.35
+20,poet,2.4|11.55
+20,romantic,88.62|117.87
+20,shakespeare,0.42|52.14|80.64|94.32|104.37|111.0
+20,theatre,59.37
+20,theatre royal,59.37
+20,thirty,19.08
+20,thirty percent,19.08
+20,though,92.55
+20,two,83.79
+20,two percent,83.79
+20,two thousand,83.79
+20,verse,91.53
+20,widely distribute,4.2
+20,widely distribute diverse,4.2
+20,william,0.09|97.95|120.63
+20,work,85.53
+20,work progressive,85.53
+20,work progressive work,85.53
+20,work use,85.53
+20,work use technology,85.53
+20,writer english language,5.88
+20,writer novel essay,5.88
+21,along,42.81|62.25|68.37
+21,arctic,106.95|123.66
+21,back,15.51|20.28|29.37
+21,black,10.23|11.46|15.15|50.28
+21,black white,10.23|11.46|15.15|50.28
+21,breeding,13.2|16.29|30.51|36.15|118.17
+21,breeding female,13.2|16.29|30.51|36.15|118.17
+21,breeding male,13.2|16.29|30.51|36.15|118.17
+21,breeding season,13.2|16.29|30.51|36.15|118.17
+21,bunting,0.42|81.12|92.34
+21,dark,28.11|38.13
+21,ear,26.37
+21,eight,86.19
+21,first,112.77
+21,forty,90.45
+21,ground,47.22|72.51
+21,group,48.48
+21,large,52.11|79.53
+21,long,80.19
+21,long term,80.19
+21,may,100.83
+21,nest,126.12
+21,non,30.12
+21,non breeding,30.12
+21,non breeding season,30.12
+21,often,52.86|64.89
+21,pass,71.46|94.5
+21,rusty,24.39|31.89|33.99
+21,rusty patch,24.39|31.89|33.99
+21,season,41.46|56.52
+21,small,3.93
+21,small penguin,3.93
+21,snow,0.0|5.67|92.04|99.99|125.25
+21,snow bunt,0.0|5.67|92.04|99.99|125.25
+21,south,106.14
+21,south border,106.14
+21,streak,19.68
+21,streak back,19.68
+21,thirteen,87.6
+21,thirteen point,87.6
+21,thirty,85.05|85.83|89.97
+21,thirty percent,85.05|85.83|89.97
+21,tundra,58.47|117.0
+21,two,85.44
+21,two percent,85.44
+21,two thousand,85.44
+21,wave,69.33
+21,way,80.55
+21,white,9.06|11.97|14.61|23.49|50.85
+21,white dwarf,9.06|11.97|14.61|23.49|50.85
+21,winter,104.7|108.42
+22,along,58.65
+22,also,34.83
+22,behind,57.9|67.32
+22,black,69.81
+22,black white,69.81
+22,blast,4.62
+22,burn,22.11
+22,can,72.75
+22,can not,72.75
+22,core,49.17|57.15
+22,dwarf,79.47|80.88
+22,energy,27.9
+22,example,92.58
+22,explosion,1.68|7.65
+22,fuel,23.91|47.7|84.93
+22,gravity,41.82|54.72
+22,happen,72.9
+22,heat,30.66
+22,hot,29.94|60.69
+22,last,11.73
+22,last specie,11.73
+22,least,16.17|76.35
+22,mass,17.4
+22,massive,13.2|21.06
+22,massive star,13.2|21.06
+22,nebula,61.92
+22,new,93.42|101.37
+22,new investor,93.42|101.37
+22,nuclear,23.55|33.99|47.34|94.23
+22,nuclear fuel,23.55|33.99|47.34|94.23
+22,number,87.3
+22,one,9.45|75.33|76.65|92.28
+22,one hundred,9.45|75.33|76.65|92.28
+22,one hundred fifty,9.45|75.33|76.65|92.28
+22,outward,50.34|52.08
+22,pressure,31.38|32.28|50.79
+22,size,65.85|83.04
+22,size sun,65.85|83.04
+22,squeeze,43.02|54.15
+22,star,8.49|13.62|15.66|35.79|37.89|43.71|63.75|82.62|101.67
+22,star low,8.49|13.62|15.66|35.79|37.89|43.71|63.75|82.62|101.67
+22,start,93.63
+22,study,90.66
+22,study evaluate,90.66
+22,sun,18.06|66.51|83.7
+22,supernova,0.18|10.32|62.91|72.09
+22,telescope,95.67
+22,ten year,64.98
+22,two,39.36|74.22
+22,two percent,39.36|74.22
+22,two thousand,39.36|74.22
+22,type,9.84|71.58
+22,type supernova,9.84|71.58
+22,universe,69.12|100.41
+22,use,87.0
+22,white,79.11|80.64
+22,white dwarf,79.11|80.64
+22,young dolphin,104.55
+22,young dolphin one,104.55
+22,young two,104.55
+22,young two type,104.55
+23,address,89.58|111.69|149.04
+23,age,29.76
+23,already,43.08|65.31
+23,base,43.69|70.83
+23,base vaccine,43.69|70.83
+23,be,143.64
+23,ceo,56.4
+23,change,176.28
+23,clinical,6.69|18.06
+23,eighteen fifty,27.12|102.42
+23,eighteen fifty five,27.12|102.42
+23,evaluate,19.74|36.6
+23,examination,61.77
+23,fifty,28.44|102.96
+23,fifty five,28.44|102.96
+23,fifty four,28.44|102.96
+23,fifty four sonnet,28.44|102.96
+23,four,166.02
+23,four sonnet,166.02
+23,good,118.09
+23,good service,118.09
+23,ground,3.45|90.36
+23,help,148.62
+23,hospitalization,119.22|140.04
+23,hundred,69.03
+23,hundred fifty,69.03
+23,hundred fifty four,69.03
+23,hundred thousand,69.03
+23,hundred thousand year,69.03
+23,level protection,45.48|137.19
+23,new,150.6
+23,new investor,150.6
+23,nineteen,2.85|100.92|108.0
+23,nineteen eighty,2.85|100.92|108.0
+23,nineteen eighty six,2.85|100.92|108.0
+23,nineteen forty,2.85|100.92|108.0
+23,nineteen seventy,2.85|100.92|108.0
+23,nineteen seventy four,2.85|100.92|108.0
+23,non,81.9
+23,non breeding,81.9
+23,non breeding season,81.9
+23,number,63.15|72.66|81.06
+23,offer,117.81
+23,one,63.48|77.73
+23,one hundred,63.48|77.73
+23,one hundred fifty,63.48|77.73
+23,produce,165.54
+23,protection,45.96|52.29|118.32|137.58
+23,receive,68.55|77.37|83.64
+23,science,41.4
+23,science study,41.4
+23,scientific,123.39
+23,severe,120.63|139.11
+23,specific,8.22|13.62|114.21
+23,specific vaccine,8.22|13.62|114.21
+23,study,18.45|33.03|40.14|98.1
+23,study evaluate,18.45|33.03|40.14|98.1
+23,thousand,169.26
+23,thousand year,169.26
+23,thousand year ago,169.26
+23,transfer,12.57
+23,twenty,38.04|169.74
+23,twenty seventeen,38.04|169.74
+23,two,72.99|74.4|84.0|169.11|169.98
+23,two percent,72.99|74.4|84.0|169.11|169.98
+23,two thousand,72.99|74.4|84.0|169.11|169.98
+23,underground,23.79|70.32
+23,underground base,23.79|70.32
+23,vaccine,3.72|8.76|14.37|24.54|43.98|67.83|79.35|85.77|101.31|114.9|157.92|168.42
+23,vaccine prize,3.72|8.76|14.37|24.54|43.98|67.83|79.35|85.77|101.31|114.9|157.92|168.42
+23,year,174.66
+23,year ago,174.66
+23,year clearly,174.66
+23,year clearly joke,174.66
+23,year depend,174.66
+23,year depend specie,174.66
+23,year four,174.66
+23,year four pilgrimage,174.66
+23,year old,174.66
+23,year old drive,174.66
+23,year shakespeare,174.66
+23,year shakespeare also,174.66
+24,almost,23.37
+24,be,80.52|102.21
+24,blue,15.42|59.28|112.86
+24,blue whale,15.42|59.28|112.86
+24,can,16.71|80.28|87.9|102.0
+24,can not,16.71|80.28|87.9|102.0
+24,combination,116.28
+24,communicate,98.88
+24,dwarf,13.26
+24,eat,39.54
+24,fish,40.47
+24,fishing,117.21
+24,group,2.79
+24,hundred,12.48|17.91|22.08
+24,hundred fifty,12.48|17.91|22.08
+24,hundred fifty four,12.48|17.91|22.08
+24,hundred thousand,12.48|17.91|22.08
+24,hundred thousand year,12.48|17.91|22.08
+24,hunt,39.06
+24,include,43.2|58.8
+24,include blue,43.2|58.8
+24,include blue whale,43.2|58.8
+24,live,8.64
+24,long,22.74|24.15|51.36|69.93
+24,long term,22.74|24.15|51.36|69.93
+24,marine,4.71
+24,massive,10.5
+24,massive star,10.5
+24,material,71.43
+24,net,117.6
+24,net worth,117.6
+24,ocean,9.48
+24,one,21.87|51.12
+24,one hundred,21.87|51.12
+24,one hundred fifty,21.87|51.12
+24,produce,77.73
+24,professional,24.63
+24,right,61.47|113.85
+24,right whale,61.47|113.85
+24,six,12.12
+24,sperm,13.8|43.65
+24,sperm whale,13.8|43.65
+24,squid,39.78
+24,thirty,19.77
+24,thirty percent,19.77
+24,though,104.7
+24,tooth,51.72
+24,toothed,32.85|34.5|42.33|55.95
+24,toothed whale,32.85|34.5|42.33|55.95
+24,top,96.45
+24,top bottom perform,96.45
+24,top ten,96.45
+24,two,17.67|31.35
+24,two percent,17.67|31.35
+24,two thousand,17.67|31.35
+24,warm,27.75
+24,weigh,16.95
+24,weigh ten,16.95
+24,weigh ten point,16.95
+24,well,44.97
+24,whale,14.28|15.75|109.44|113.19|114.21|115.29
+24,whale large,14.28|15.75|109.44|113.19|114.21|115.29
+24,whale well dolphin,14.28|15.75|109.44|113.19|114.21|115.29
+24,whale widely,14.28|15.75|109.44|113.19|114.21|115.29
+24,whale widely distribute,14.28|15.75|109.44|113.19|114.21|115.29
+24,widely distribute,0.87
+24,widely distribute diverse,0.87
+24,young dolphin,29.88
+24,young dolphin one,29.88
+24,young two,29.88
+24,young two type,29.88
