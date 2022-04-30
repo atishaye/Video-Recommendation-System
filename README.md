@@ -12,7 +12,7 @@
 - **TigerGraph Cloud**: TigerGraph Cloud is where we’ll create our solution and host our graph database. This will also contain all the data we’ll be using.
 - **Plotly Express**: Plotly Express is a high-level library under Plotly to easily create nice visualisations. With it, we’ll create our map visuals.
 - **Plotly Dash**: Plotly Dash is Plotly’s dashboarding library, and we’ll use it to showcase the maps we create and allow users to toggle the different settings of the map.
-- 
+
 ## Important Links
 - <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b"> Medium Blog Link </a>
 - <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing"> External Drive Link </a>
