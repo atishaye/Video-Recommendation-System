@@ -1,1 +1,1 @@
-This contains Audio Files and the datasets required for Google Colabs to run.
+This contains Audio Files, the TigerGraph solution and the datasets required for this project.
