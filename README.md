@@ -7,6 +7,14 @@
 
 - Head over to our explore visuals section to dive deep into the dataset by looking at various entities and a dynamic cytoscape to visualise the network of keywords we are working with. You can observe how various keywords appear in different videos and the vast graph that connects them! 
 
+## Setup Locally
+- Clone this repository:
+
+  `git clone https://github.com/atishaye/Video-Recommendation-System.git`
+- Make sure the TigeGraph Cloud solution is running and is in ready state.
+- Run All cells in the `TigerGraph's_Extern_Dashboard_Final.ipynb` file present in `Google Colab Notebooks` folder.
+- For each Google Colab, you can find any required files in the `data` folder of this repository.
+- In case of queries or for more detailed setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b">blog </a>.
 
 ## Tools Used
 - **TigerGraph Cloud**: TigerGraph Cloud is where we’ll create our solution and host our graph database. This will also contain all the data we’ll be using.
