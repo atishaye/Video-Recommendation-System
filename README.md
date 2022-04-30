@@ -29,7 +29,7 @@ Named entity recognition (NER) aids in locating and classifying named entities i
 - Which companies were mentioned in the videos?
 - Were specified products and names mentioned in the video?
 
-  ![NER Vis](https://user-images.githubusercontent.com/55448429/166070211-cec8a791-d1d0-46fe-b925-762dc346e145.gif)
+![NER Vis](https://user-images.githubusercontent.com/55448429/166070211-cec8a791-d1d0-46fe-b925-762dc346e145.gif)
 
 ### Cytoscape
 
@@ -43,11 +43,16 @@ We have performed topic modelling using a famous topic modelling technique Laten
   
   ![Topic Modeling](https://user-images.githubusercontent.com/55448429/166070281-c7adf4ca-a081-4b65-9426-d3b6dd2bffeb.gif)
 
+## Frameworks
+  ![TigerGraph App Framework](https://user-images.githubusercontent.com/55448429/166103973-d9e0f1b1-807c-4337-a928-d7b6c62b5a32.png)
+
+  ![TigerGraph App Framework (1)](https://user-images.githubusercontent.com/55448429/166103978-5bed876b-2a71-4ca0-bd04-7675fcad3ed8.png)
+
 ## Contributing
 
 - Should be locally tested and well formatted.
 - It is good practice to open an issue first and discuss your changes before submitting a pull request. This way, you can incorporate ideas from others before you even start.
-- GitHub Repository link is on the left Sidebar. Please follow the GitHub PR workflow for your contributions.
+- Please follow the GitHub PR workflow for your contributions.
 - Fork this repo, create a feature branch, commit your changes and open a PR to this repo.
 
 ## Conclusion
