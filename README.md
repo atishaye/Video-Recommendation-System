@@ -12,8 +12,8 @@
 
   `git clone https://github.com/atishaye/Video-Recommendation-System.git`
 - The main Google Colab is the `TigerGraph's_Extern_Dashboard_Final.ipynb` file present in `Google Colab Notebooks` folder.
-- You can find any required files in the `data` folder of this repository or in this <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing"> Google Drive</a>.
-- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b">blog </a> and <a href=""> Video Tutorial</a>.
+- You can find any required files in the `data` folder of this repository or in this <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing" target="_blank"> Google Drive</a>.
+- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b" target="_blank">blog </a> and <a href=""> Video Tutorial</a>.
 
 
 ## Tools Used
@@ -22,9 +22,9 @@
 - **Plotly Dash**: Plotly Dash is Plotly’s dashboarding library, and we’ll use it to built various components on our dashboard.
 
 ## Important Links
-- <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b"> Medium Blog Link </a>
-- <a href=""> Video Tutorial Link </a>
-- <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing"> External Drive Link </a>
+- <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b" target="_blank"> Medium Blog Link </a>
+- <a href="" target="_blank"> Video Tutorial Link </a>
+- <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing" target="_blank"> External Drive Link </a>
 
 ## Glimpses
 
