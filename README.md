@@ -13,7 +13,10 @@
   `git clone https://github.com/atishaye/Video-Recommendation-System.git`
 - The main Google Colab is the `TigerGraph's_Extern_Dashboard_Final.ipynb` file present in `Google Colab Notebooks` folder.
 - You can find any required files in the `data` folder of this repository or in this <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing" target="_blank"> Google Drive</a>.
-- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b" target="_blank">blog </a> and <a href=""> Video Tutorial</a>.
+- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b" target="_blank">blog </a> and video tutorial below
+
+  [![Video Tutorial and Project Walkthrough](https://img.youtube.com/vi/zkT9odf18rI/0.jpg)](https://www.youtube.com/watch?v=zkT9odf18rI)
+
 
 
 ## Tools Used
@@ -23,7 +26,7 @@
 
 ## Important Links
 - <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b" target="_blank"> Medium Blog Link </a>
-- <a href="" target="_blank"> Video Tutorial Link </a>
+- <a href="https://youtu.be/zkT9odf18rI" target="_blank"> Video Tutorial Link </a>
 - <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing" target="_blank"> External Drive Link </a>
 
 ## Glimpses
