@@ -11,9 +11,9 @@
 - Clone this repository:
 
   `git clone https://github.com/atishaye/Video-Recommendation-System.git`
-- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b">blog </a> and <a href=""> Video Tutorial</a>.
-- Run all cells in the `TigerGraph's_Extern_Dashboard_Final.ipynb` file present in `Google Colab Notebooks` folder.
+- The main Google Colab is the `TigerGraph's_Extern_Dashboard_Final.ipynb` file present in `Google Colab Notebooks` folder.
 - You can find any required files in the `data` folder of this repository or in this <a href="https://drive.google.com/drive/folders/1k1nDWr2p4p63X2LegnFjBwqRhmjBl-Uh?usp=sharing"> Google Drive</a>.
+- To further proceed with the setup, refer to the <a href="https://medium.com/@btyagi/video-recommendation-system-561dd60e563b">blog </a> and <a href=""> Video Tutorial</a>.
 
 
 ## Tools Used
