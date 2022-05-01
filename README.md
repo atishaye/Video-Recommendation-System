@@ -53,6 +53,7 @@ We have performed topic modelling using a famous topic modelling technique Laten
 
 ## Frameworks
   ![TigerGraph App Framework](https://user-images.githubusercontent.com/55448429/166103973-d9e0f1b1-807c-4337-a928-d7b6c62b5a32.png)
+> Here we can use Vosk, Google Speech Recognition or Facebook Model of Speech Recognition to generate transcripts.
 
   ![TigerGraph App Framework (2)](https://user-images.githubusercontent.com/55448429/166138726-f35ec02e-11cb-4da8-8618-2a683eb60468.png)
 
