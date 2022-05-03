@@ -1,7 +1,7 @@
 # TigerGraph's Video-Recommendation-System
 
 ## Introduction
-- This application is to get your favorite videos recommended powered by Graph Database based on provided keywords and the ability to pinpoint where the keyword was spoken in the videos! The dataset incorporates a variety of themes like finance, cryptocurrency, animals, astronomy, literature, authors, etc. 
+- This application will recommend your favourite videos based on provided keywords with the ability to pinpoint where the keyword was spoken in the videos! The dataset includes a variety of themes for you to choose from, such as finance, cryptocurrency, animals, astronomy, literature, and so on.
 
 - The topics analytics page will allow you to find an interactive topic model generated on the dataset that coordinates the similarity between different topics and the videos they belong to using Latent Dirichlet Allocation. 
 
